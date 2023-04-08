@@ -1,0 +1,20 @@
+baseURL = 'https://rustyniall.github.io'
+languageCode = 'en-us'
+title = "Niall's Notes"
+theme = "chalk"
+
+[params.chalk]
+  # chalk theme parameters
+  about_enabled = true # Change to true if you wish to show an icon in the navigation that redirects to the about page
+  scrollappear_enabled = true
+  theme_toggle = true
+  rss_enabled = true
+  local_fonts = false
+  
+  [taxonomies]
+   tag = "tags"
+   category = "categories"
+   preserveTaxonomyNames = "true"
+
+
+
