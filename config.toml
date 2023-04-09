@@ -1,4 +1,4 @@
-baseURL = 'https://rustyniall.github.io'
+baseURL = 'https://rustyniall.com'
 languageCode = 'en-us'
 title = "Niall's Notes"
 theme = "chalk"
