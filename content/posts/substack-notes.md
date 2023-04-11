@@ -1,7 +1,7 @@
 ---
 title: "Substack Notes"
 date: 2023-04-11T18:11:34+01:00
-draft: true
+draft: false
 tagss: substack, writing, internet
 ---
 
