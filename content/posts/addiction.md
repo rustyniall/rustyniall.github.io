@@ -1,0 +1,22 @@
+---
+title: "Reflections on language that I have used in writing about people living with addiction"
+date: 2023-04-11T14:27:19+01:00
+draft: false
+tags: ["bird site","addiction", "writing", "easter"]
+---
+
+I recently had a bit of a reckoning about my writing. It wasn't the first and it won't the last. This reckoning centred around a trend within my writings of referring to people with addictions with derogatory terms such as "pissheads", "bagheads", "crackheads" and other nasty, judgemental epithets. I wish I could say that this is something I left in the past but I drafted a piece yesterday about alcoholism, addiction and the Easter weekend that used those terms for all their distancing and dehumanising effect.
+
+This morning, I followed a link from a blog to a thread on the bird site by a woman who seemed to be advocating the public hanging of narcotics dealers in order to lessen the encounters that she had with strange men whenever she took her dog out for a walk in the middle of the night in San Francisco. She wrote about how, in the 1800s, crime rates dropped when young men formed posses and lynched people that they deemed to be criminals. After receiving pushback, she clarified that she was against public executions but then positioned the whole episode as an ongoing discussion for which she was the chief facilitator. It was one of those threads that made me glad that my own twitter account was permanently deleted a few days ago. Back in the days when I was still posting I would have been pulled into that maelstrom and would have tried to make ethical capital from it. 
+
+Perhaps it was because I had no immediate means of joining the collective rebuke that I fell back onto some introspection and considered my own writing about addicts. Many of these ugly epithets occured in earlier writings from the time that I worked as a gardener on inner city council estates. The use of such terminology reflected the attitudes of workers who would have a number of challenging interactions throughout their day. I have not done such work for nearly two decades and am no longer in such a seemingly justifiable position to judge others (which was debatable anyway). Even then, a lot of my best work from that time is the work that humanises rather than stigmatises addicts. 
+
+The gist of yesterday's unfinished piece of writing was that I've always had challenging experiences with intoxicated people on Easter Sunday, often during the morning and afternoon. This is probably because the four day weekend, as well as the proper arrival of spring, provides an opportunity for a sustained, half-week long bender.  In this context, Easter Sunday represents the mid-late phase, where the early euphoria makes way for a more aggressive and disillusioned phase before Monday sees the participant retreat to their bed. 
+
+This previously coincided with my family's traditional egg hunt and picnic in a local park, which turned out to be a typically wholesome encounter until it's interrupted by a sunburnt man in an unbuttoned shirt bellowing something racist in a green space within a multicultural community. 
+
+Writing about a person's struggles with addiction in the judgmental way that I have simply pushes them and their problems aside and diverts attention from my unreasonable need to have a wholesome family experience in the midst of a cost of living crisis and the ongoing erosion of public services and social safety nets. While aggressive or intimidating behaviour seems to give gentrifiers cart blanche to advocate for public executions, I have also made my own capital from writing about addicts when their politicised outbursts cause offence to my nuanced political sensibilities, as if they are only worthy of sympathy when their brokenness manifests in agreeable ways. 
+
+I certainly had my own dependencies on substances throughout my twenties and thirties and am lucky that those dependencies never tipped over into addiction. This luck allowed me to be the moral subjective presence in my own gritty urban poems rather than the intoxicated extra in someone else's artwork. 
+
+One reason why I keep this notebook is to write from a more open place. Furnishing gritty urban scenes with judgmental representations of the struggles of others isn't something that comes from openness, quite the opposite. It's as closed off as a tomb in ancient Jerusalem. I won't use those kinds of terms again.
