@@ -2,7 +2,7 @@
 title: "Granny's Garden"
 date: 2023-04-06T18:05:48+01:00
 draft: false
-tags: ["granny's garden","video games","writing","fonts","nostalgia"]
+tags: ["granny's_garden","video_games","writing","fonts","nostalgia"]
 
 ---
 
