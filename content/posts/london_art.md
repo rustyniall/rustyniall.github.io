@@ -1,11 +1,9 @@
 ---
-title: "London_art"
+title: "Why London's most vital art is far from the cultural elites"
 date: 2023-07-09T10:23:40+01:00
 draft: false
 tags: ["london", "arts", "gentrification", "the_guardian", "leveling_up"]
 ---
-#Why London's most vital art is far from the cultural elites
-
 I have a lot of mixed feels about London's arts scene and its relation to the obscene wealth it happens in the shadow of. A lot of the most significant art from London comes from migrant and w/c communities with deep familial links within the city. The have done so for decades with very little of the city's wealth trickling down to them. 
 
 A lot of this art is invisible until a Kae Tempest,.George the Poet or Stormzy breaks through and makes it more visible. In the meantime there's lots of discourse about how rich and privileged London is and when arts funding is cut to London bodies to fill the coffers of a leveling up fund that pits dying regional towns against each other in a developmental lottery. 
