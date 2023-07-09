@@ -6,7 +6,7 @@ tags: ["london", "arts", "gentrification", "the_guardian", "leveling_up"]
 ---
 I have a lot of mixed feels about London's arts scene and its relation to the obscene wealth it happens in the shadow of. A lot of the most significant art from London comes from migrant and w/c communities with deep familial links within the city. The have done so for decades with very little of the city's wealth trickling down to them. 
 
-A lot of this art is invisible until a Kae Tempest,.George the Poet or Stormzy breaks through and makes it more visible. In the meantime there's lots of discourse about how rich and privileged London is and when arts funding is cut to London bodies to fill the coffers of a leveling up fund that pits dying regional towns against each other in a developmental lottery. 
+A lot of this art is invisible until a Kae Tempest, George the Poet or Stormzy breaks through and makes it more visible. In the meantime there's lots of discourse about how rich and privileged London is and when arts funding is cut to London bodies to fill the coffers of a leveling up fund that pits dying regional towns against each other in a developmental lottery battle royale. 
 
 When these communities are displaced it tends to be a hop over from Peckham to Catford and the alpha wave of gentrification that displaced them tends to come from middle class artists who find an earpiece from the Guardian for them to speak about the difficulties they're facing. I remember one displaced artist a few years back speaking unironically about how they had to find a new "frontier". 
 
