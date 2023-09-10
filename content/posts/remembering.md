@@ -4,9 +4,6 @@ date: 2014-01-14
 draft: false
 ---
 
-# Remembering the Death of Performance Poetry
-26/1/14
-
 ## DON’T PANIC!!!
 
 Apologies in advance for the alarmist title. This post is not about some imminent collapse in the Spoken Word boom, far from it. It is intended as a meditative look back at the cycles that happen within spoken word cultures and how history tends to repeat itself, especially when there’s no history available to learn from. It centres around a certain historical point within the poetry scenes in the UK. Like all of the most interesting points in culture, it was a time of transition. It is a time that I have often termed as The Death of Performance Poetry.
