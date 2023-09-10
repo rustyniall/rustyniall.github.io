@@ -10,9 +10,9 @@ A lot of this art is invisible until a Kae Tempest, George the Poet or Stormzy b
 
 When these communities are displaced it tends to be a hop over from Peckham to Catford and the alpha wave of gentrification that displaced them tends to come from middle class artists who find an earpiece from the Guardian for them to speak about the difficulties they're facing. I remember one displaced artist a few years back speaking unironically about how they had to find a new "frontier". 
 
-Being that a lot of these artists came from outside London they tend to find it easier to relocate to the places where studios are cheaper and funding is made more available. Again, a lot of this isn't an option for those trapped in the slow, decades long  push from Dalston to Leyton then to Romford or Notting Hill to Shepherd Bush to Greenford then to Slough.
+Being that a lot of these artists came from outside London they tend to find it easier to relocate to the places where studios are cheaper and funding is made more available. Again, a lot of this isn't an option for those trapped in the slow, decades long  push from Dalston to Leyton then to Romford or Notting Hill to Shepherd's Bush to Greenford then to Slough.
 
-t really don't want to come across as too provocative cos I'm too old for all that these days. I would just advise against casually promoting the idea of London arts as an elite megapolis for bankers and culture vultures. The elites won't even register the arts cuts and relocations but the embedded communities will be affected and won't have as clear a route to where the arts money gets diverted to.
+I really don't want to come across as too provocative cos I'm too old for all that these days. I would just advise against casually promoting the idea of London arts as an elite megapolis for bankers and culture vultures. The elites won't even register the arts cuts and relocations but the embedded communities will be affected and won't have as clear a route to where the arts money gets diverted to.
 
 And I do empathise with the artists who are now being displaced or are having to give up on their dreams. Those that were part of that early phase of gentrification weren't necessarily aware of the part that they played and were similarly cast aside when the neighbourhoods they communed within became more desirable, partly because of their presence.
 
