@@ -1,11 +1,11 @@
 ---
-title: "Rembering the Death of Performance Poetry - Redux"
+title: "Remembering the Death of Performance Poetry - Redux"
 date: 2014-01-30
 draft: false
 ---
 
 30/1/2014
-It’s been an interesting couple of days since I posted my  [Remembering the Death of Performance Poetry blog.](https://rustyniall.com/remembering)  On the whole the response on Facebook and Twitter — while far from a solemn parade of nodding heads — has been enthusiastic, thoughtful and similarly reflective. People have chipped in with curious questions about whether there is a difference between Performance Poetry and Spoken Word and others have added their own commentary, stories and opinions on how live literature has transformed, fluctuated and stagnated over the last couple of decades.
+It’s been an interesting couple of days since I posted my  [Remembering the Death of Performance Poetry blog.](https://rustyniall.com/posts/remembering)  On the whole the response on Facebook and Twitter — while far from a solemn parade of nodding heads — has been enthusiastic, thoughtful and similarly reflective. People have chipped in with curious questions about whether there is a difference between Performance Poetry and Spoken Word and others have added their own commentary, stories and opinions on how live literature has transformed, fluctuated and stagnated over the last couple of decades.
 
 Poets added their own anecdotes to the bare bones of my blog post (2000 words is nowhere near enough to scratch the surface of all that went down back then) and a half forgotten era seemed to flicker back to life within the hive mind.
 
