@@ -1,7 +1,7 @@
 ---
 title: "cold shoulder on a mild morning"
 date: 2024-01-26T10:15:03Z
-draft: true
+draft: false
 ---
 I haven't done this kind of thing in quite a while. These days, I'm normally the guy who steps aside in any given condition to let someone pass and offers a smile even when the other party doesn't say thank you. It's fine. There was a point when I would sing a few bars of You're Welcome from Moana but I've grown out of that, unless I really want to make one of my children cringe-giggle. 
 
